@@ -6,8 +6,8 @@ This project performs basic arithmetic operations and is designed for beginners 
 ---
 
 ## 🚀 Live Demo
-👉  
-👉
+👉  https://sujini-kudupudi.github.io/calculatorr/ 
+👉calculatorr-m0q1ms2wf-sujinis-projects-a808ed3b.vercel.app
 
 
 
