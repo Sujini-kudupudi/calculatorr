@@ -6,15 +6,13 @@ This project performs basic arithmetic operations and is designed for beginners 
 ---
 
 ## 🚀 Live Demo
-👉 https://your-username.github.io/calculator/  
-👉 https://your-project.vercel.app/
+👉  
+👉
 
----
+
 
 ## 📸 Preview
-(Add screenshot here)
 
----
 
 ## ✨ Features
 - ➕ Addition
@@ -34,3 +32,6 @@ This project performs basic arithmetic operations and is designed for beginners 
 ---
 
 ## 📂 Project Structure
+html
+css
+java
